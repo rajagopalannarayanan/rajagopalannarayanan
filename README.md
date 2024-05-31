@@ -31,3 +31,9 @@
 </p>
 
 
+<h2>Experience at Changepond Technologies (Aug 2021 - March 2023):</h2>
+<p>Served as a pivotal team member within Changepond Technologies, contributing to a UK government project for over a year. Engaged in both production support and development facets, ensuring seamless operations and innovative enhancements. Collaborated closely with cross-functional teams to deliver solutions aligned with project objectives and quality standards.</p>
+
+<h2>Internship at Veave Technologies (Dec 2023 - May 24):</h2>
+<p>As an intern at Veave Technologies, spearheaded the successful launch of 10 distinct websites catering to ISO certification services across the United States. Notably, executed sales responsibilities encompassing diverse global markets. Proficiently leveraged WordPress to craft and refine documentation for newly designed web pages, thereby optimizing online presence and user experience.</p>
+
