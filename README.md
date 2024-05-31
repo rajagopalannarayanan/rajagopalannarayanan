@@ -17,18 +17,10 @@
 </p>
 <p align="center">
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/Web Development-blue"> <img src="https://img.shields.io/badge/Mobile App Development-green"> <img src="https://img.shields.io/badge/Database Management-orange"> <img src="https://img.shields.io/badge/Algorithms and Data Structures-red"> 
-</p>
+
 
 <hr>
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<img src="https://img.shields.io/badge/ASP.NET-%23121011.svg?&style=for-the-badge&logo=.net&logoColor=white"/> 
-<img src="https://img.shields.io/badge/WordPress-%23121011.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>
-</p>
+
 
 
 <h2>Experience at Changepond Technologies (Aug 2021 - March 2023):</h2>
@@ -37,3 +29,14 @@
 <h2>Internship at Veave Technologies (Dec 2023 - May 24):</h2>
 <p>As an intern at Veave Technologies, spearheaded the successful launch of 10 distinct websites catering to ISO certification services across the United States. Notably, executed sales responsibilities encompassing diverse global markets. Proficiently leveraged WordPress to craft and refine documentation for newly designed web pages, thereby optimizing online presence and user experience.</p>
 
+<h2>Professional Skills</h2>
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/ASP.NET-%23121011.svg?&style=for-the-badge&logo=.net&logoColor=white"/> 
+<img src="https://img.shields.io/badge/WordPress-%23121011.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>
+</p>
+<p align="left">
+<img src="https://img.shields.io/badge/Web Development-blue"> <img src="https://img.shields.io/badge/Mobile App Development-green"> <img src="https://img.shields.io/badge/Database Management-orange"> <img src="https://img.shields.io/badge/Algorithms and Data Structures-red"> 
+</p>
