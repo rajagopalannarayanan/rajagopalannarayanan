@@ -1,5 +1,5 @@
 <p align="center">
- <img  width="800" height="200" src="https://github.com/rajagopalannarayanan/rajagopalannarayanan/blob/main/rishi.gif">
+ <img  width="800" height="100" src="https://github.com/rajagopalannarayanan/rajagopalannarayanan/blob/main/rishi.gif">
 </p>
 <h2 align="center">Hello there! My name is Rajagopalan Narayanan. 👋🤓</h2>
 <p align="center">With 1+ year of experience in the IT industry, I graduated from Bharath Institute of Higher Education and Research with a Bachelor's in Engineering. Proficient in web development, I excel in problem-solving and stay updated with the latest tech trends. Actively contributing to open-source projects, I'm passionate about leveraging technology for positive change and poised to continue making waves in software development.
