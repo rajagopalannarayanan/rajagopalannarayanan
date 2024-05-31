@@ -1,5 +1,5 @@
 <p align="center">
- <img  width="800" height="400" src="https://github.com/Terabyte17/Terabyte17/blob/master/social/yashs.gif">
+ <img  width="800" height="400" src="https://github.com/rajagopalannarayanan/rajagopalannarayanan/blob/main/rishi.gif">
 </p>
 <h2 align="center">Hello there! My name is Rajagopalan Narayanan. 👋🤓</h2>
 <p align="center">With 1+ year of experience in the IT industry, I graduated from Bharath Institute of Higher Education and Research with a Bachelor's in Engineering. Proficient in web development, I excel in problem-solving and stay updated with the latest tech trends. Actively contributing to open-source projects, I'm passionate about leveraging technology for positive change and poised to continue making waves in software development.
@@ -30,6 +30,4 @@
 <img src="https://img.shields.io/badge/WordPress-%23121011.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
-<p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=Terabyte17&show_icons=true&theme=radical">
-</p>
+
