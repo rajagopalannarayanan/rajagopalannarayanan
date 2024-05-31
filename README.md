@@ -40,3 +40,6 @@
 <p align="left">
 <img src="https://img.shields.io/badge/Web Development-blue"> <img src="https://img.shields.io/badge/Mobile App Development-green"> <img src="https://img.shields.io/badge/Database Management-orange"> <img src="https://img.shields.io/badge/Algorithms and Data Structures-red"> 
 </p>
+<h2>Certifications and Training</h2>
+<p>Certified on .NET,C,C++ and Java from a reputed training institute - FIIT in Chennai on 2021.</p>
+<p>Pursuing a Masters program in Full Stack Software Development on Upgrad learning online platform.</p>
