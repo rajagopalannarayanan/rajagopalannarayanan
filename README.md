@@ -11,8 +11,8 @@
 <p align=center>
   <a href="https://github.com/Terabyte17">
     <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
-    <img src="https://badges.pufler.dev/followers/Terabyte17?style=flat-square&color=black&logo=github">
-    <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
+   
+
   </a>
 </p>
 <p align="center">
