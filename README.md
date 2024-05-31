@@ -18,7 +18,7 @@
 <p align="center">
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Web Development-blue"> <img src="https://img.shields.io/badge/Mobile App Development-green"> <img src="https://img.shields.io/badge/Database Management-orange"> <img src="https://img.shields.io/badge/Algorithms and Data Structures-red"> <img src="https://img.shields.io/badge/Coding Challenges-yellow"> 
+<img src="https://img.shields.io/badge/Web Development-blue"> <img src="https://img.shields.io/badge/Mobile App Development-green"> <img src="https://img.shields.io/badge/Database Management-orange"> <img src="https://img.shields.io/badge/Algorithms and Data Structures-red"> 
 </p>
 
 <hr>
